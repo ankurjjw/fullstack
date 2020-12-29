@@ -1,0 +1,15 @@
+div{
+    background-color: teal;
+}
+h1{
+    border: solid salmon;
+}
+.font_red{
+    color:red;
+}
+#unique{
+    border: solid black;
+}
+.bg_blue{
+    background-color: blue;
+}
